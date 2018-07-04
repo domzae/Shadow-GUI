@@ -1,0 +1,1 @@
+debuffLeft = obj_iControl.alarm[2]/room_speed;
